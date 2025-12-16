@@ -55,8 +55,9 @@ img {
 }
 
 main  {
+  display: grid;
   margin-top: 40px;
-  gap: 80px
+  gap: 80px;
 }
 
 .content-tag {

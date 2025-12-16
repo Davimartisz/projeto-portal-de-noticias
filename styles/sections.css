@@ -15,7 +15,7 @@ section header{
      
     }
 
-    &:hoover span{
+    &:hover span{
       background-image: url(../assets/icons/ArrowRight-hoover.svg);
     }
   }
