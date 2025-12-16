@@ -1,9 +1,5 @@
 ![Captura de tela_15-12-2025_22534_127 0 0 1](https://github.com/user-attachments/assets/010f6b7a-458c-47ec-b12e-5dc4e7b1bdf1)
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
-
-<p align="center">
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
 </p>
 
